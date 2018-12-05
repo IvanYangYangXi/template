@@ -1,0 +1,59 @@
+# ---------------[ UE4 generated ]------------------ #
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/.sp
+/SP_Textures
+ 
+ 
+# ----[ Visual Studio ]------- #
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.pidb
+*.sdf
+*.sln
+ *.opendb
+ *.sdf
+*.suo
+*.svd
+*.xcodeproj
+*.xcworkspace
+ 
+ 
+# ----[ Python ]------- #
+*.pyc
+/__pycache__
+*.py[cod]
+*$py.class
+ 
+ 
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+ 
+ 
+# ---------------[ KBE generated ]------------------ #
+/Plugins/KBEnginePlugins/Binaries
+/Plugins/KBEnginePlugins/Intermediate
+ 
+ 
+# ---------------[ 3D_Project generated ]------------------ #
+/autosave
+/autoback
+/archives
+/clips
+/downloads
+/previews
+/proxies
+/renderoutput
+/renderpresets
+/renderData
+/Time Editor
+/sceneAssembly
+/Temp
